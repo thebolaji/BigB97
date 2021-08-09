@@ -1,2 +1,2 @@
 ## Hi there
-### i'm Bolaji, an intermediate backend developer, i love building 
+### i'm Bolaji, Backend/DevOps, i love building 
