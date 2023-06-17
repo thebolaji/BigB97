@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/thebolaji_" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/thebolaji_?logo=twitter&style=for-the-badge" alt="https://twitter.com/thebolaji_" /></a> </p>
 
-- 🔭 I’m currently working on [IpayBTC](https://ipaybtc.app/)
+- 🔭 I’m currently working on [Lynkk](https://www.lynkk.io/)
 
 - 🌱 I’m currently learning **Kubernetes**
 
