@@ -21,9 +21,7 @@
 
 - 📫 How to reach me **ybolaji1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UnMTqB2d4KpN3pc6I11TgTTWihy5cr_M/view?usp=sharing](https://drive.google.com/file/d/1UnMTqB2d4KpN3pc6I11TgTTWihy5cr_M/view?usp=sharing)
-
-- ⚡ Fun fact **I like reading,but i don't look like a geek**
+- ⚡ Fun fact **I like reading, but i don't look like a geek**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
